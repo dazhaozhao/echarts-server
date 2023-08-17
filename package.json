@@ -1,0 +1,28 @@
+{
+  "name": "echarts-server",
+  "description": "Echarts server side render by node canvas, generate chart image by Echarts. 使用NodeJs服务器端渲染echarts图表，生成图片格式",
+  "private": true,
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dazhaozhao/echarts-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dazhaozhao/echarts-server/issues"
+  },
+  "homepage": "https://github.com/dazhaozhao/echarts-servers#readme",
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "echarts": "^5.4.3"
+  },
+  "devDependencies": {
+    "vite": "^4.4.5"
+  }
+}
