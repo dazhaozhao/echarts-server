@@ -21,8 +21,5 @@
   "dependencies": {
     "canvas": "^2.11.2",
     "echarts": "^5.4.3"
-  },
-  "devDependencies": {
-    "vite": "^4.4.5"
   }
 }
